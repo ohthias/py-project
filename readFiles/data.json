@@ -1,0 +1,58 @@
+[
+    {
+        "name" : "John Doe",
+        "password" : "password123",
+        "courses" : [
+            {
+                "course_name" : "Pyhton Básico",
+                "progresso" : 0
+            },
+            {
+                "course_name" : "Segeurança Digital",
+                "progresso" : 0
+            }
+        ]
+    },
+    {
+        "name" : "Jane Smith",
+        "password" : "mypassword",
+        "courses" : [
+            {
+                "course_name" : "Pyhton Básico",
+                "progresso" : 1
+            },
+            {
+                "course_name" : "Segeurança Digital",
+                "progresso" : 3
+            }
+        ]
+    },
+    {
+        "name" : "Alice Johnson",
+        "password" : "alicepassword",
+        "courses" : [
+            {
+                "course_name" : "Pyhton Básico",
+                "progresso" : 2
+            },
+            {
+                "course_name" : "Segeurança Digital",
+                "progresso" : 1
+            }
+        ]
+    },
+    {
+        "name" : "Bob Brown",
+        "password" : "bobpassword",
+        "courses" : [
+            {
+                "course_name" : "Pyhton Básico",
+                "progresso" : 0
+            },
+            {
+                "course_name" : "Segeurança Digital",
+                "progresso" : 2
+            }
+        ]
+    }
+]
